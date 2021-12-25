@@ -1,5 +1,5 @@
 import numpy as np
-A=(input().split(),int)   #input
+A=(input().split(),int)   #input  #  map() and for loop not used as sample input = [0,1]
 B=(input().split(),int)   #input
 print(numpy.inner(A,B)    #output
 print(numpy.outer(A,B)    #output
