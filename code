@@ -1,0 +1,9 @@
+import numpy as np
+A=(input().split(),int)   #input
+B=(input().split(),int)   #input
+print(numpy.inner(A,B)    #output
+print(numpy.outer(A,B)    #output
+
+# another way of printing output
+#print(numpy.inner(A,B),numpy.outer(A,B),sep='\n')
+
